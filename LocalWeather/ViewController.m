@@ -25,8 +25,10 @@ static NSString *SectionsTableIdentifier = @"SectionsTableIdentifier";
 @property (strong, nonatomic) CurrentWeatherInfo *curWeathherInfo;
 @property (strong, nonatomic) DatabaseHelper *databaseHelper;
 @property (strong, nonatomic) UIRefreshControl *refreshControl;
+
 @end
 
+// Update ViewController
 @implementation ViewController
 
 - (void)viewDidLoad {
