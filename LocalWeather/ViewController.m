@@ -60,7 +60,6 @@ static NSString *SectionsTableIdentifier = @"SectionsTableIdentifier";
     resultsController.searchBar = searchBar;
 
     self.apiEngine = [APIEngine sharedEngine];
-    
 }
 
 -(void) refresheWeatherInfomation
@@ -146,7 +145,6 @@ static NSString *SectionsTableIdentifier = @"SectionsTableIdentifier";
 
 - (void)scrollViewDidEndDecelerating:(UIScrollView *)aScrollView
 {
-  
     NSLog(@"End table");
 }
 
