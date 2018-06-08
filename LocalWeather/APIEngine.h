@@ -19,6 +19,6 @@
 
 -(void) checkingNetworkConnection;
 
-//Function For Feature 1
+// Function for Feature User Profile
 
 @end
