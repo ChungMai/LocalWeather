@@ -19,11 +19,4 @@
 
 -(void) checkingNetworkConnection;
 
-// Function for Feature User Profile
-// Update Function 3
-// Feature User Changes
-// Master Changes
-// Update Master Branch
-// Feature 1 Update 2
-// Master update 1
 @end
