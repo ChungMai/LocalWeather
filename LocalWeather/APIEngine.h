@@ -21,5 +21,5 @@
 
 // Feature 1 New Update 1.2
 // Feature 1 New Update 2.2
-// Feature 1 New Update 3.6
+// Feature 1 New Update 3.7
 @end
