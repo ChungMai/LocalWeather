@@ -21,5 +21,9 @@
 
 // Feature 1 New Update 1.2
 // Feature 1 New Update 2.2
+<<<<<<< HEAD
 // Feature 1 New Update 2.7
+=======
+// Feature 1 New Update 2.6
+>>>>>>> 88fc8f39f92a6282a5bff4ccd1fe19cd88c6854d
 @end
