@@ -20,6 +20,6 @@
 -(void) checkingNetworkConnection;
 
 // Feature 1 New Update 1.2
-// Feature 1 New Update 2.2
-// Feature 1 New Update 5.0
+// Feature 1 New Update 2.21
+// Feature 1 New Update 5.1
 @end
