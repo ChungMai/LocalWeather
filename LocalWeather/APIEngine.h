@@ -20,8 +20,8 @@
 -(void) checkingNetworkConnection;
 
 // Feature 1 New Update 1.2
-// Feature 1 New Update 2.2
-// Feature 1 New Update 4.11
+// Feature 1 New Update 2.21
+// Feature 1 New Update 4.10
 // Feature 1 New Update 4.13
 // Feature 1 New Update 4.14
 // Feature 1 New Update 4.15
